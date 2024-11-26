@@ -12,3 +12,5 @@ This project showcases the early 2023 success of Marcus Stroman, it includes:
 
 ## Tools Used
 - Excel (Power Queries, Pivot Tables, Slicers, and Charts)
+
+## this project was created for a class so the level of analytics portrayed is well below my current understanding
